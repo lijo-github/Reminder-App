@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Reminder-App
 >>>>>>> 40b6837bfe4db73cb04e1436f3d82a4c58d19c7e
+=======
+# Reminder-App
+>>>>>>> 18e694486a683889476f8c474d130002f7efe3da
